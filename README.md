@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Bespoke Obsidian Vector Hero Banner -->
-<img src="assets/hero-banner.svg" alt="Omnex / Arnob — Creative Technologist & Systems Architect" width="100%" />
+<!-- Crimson Glassmorphic Hero Banner -->
+<img src="assets/banner.png" alt="I craft kinetic software — Omnex" width="100%" />
 
 <br /><br />
 
-[![Email](https://img.shields.io/badge/Direct_Line-revenched.arnob%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=00F5A0)](mailto:revenched.arnob@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-omnex--dev-0F172A?style=flat-square&logo=github&logoColor=00D9F5)](https://github.com/omnex-dev)
-[![Location](https://img.shields.io/badge/Base-Dhaka%2C_Bangladesh-0F172A?style=flat-square&logo=googlemaps&logoColor=A855F7)](https://maps.google.com)
+[![Email](https://img.shields.io/badge/Email-revenched.arnob%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=FF3B56)](mailto:revenched.arnob@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-omnex--dev-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/omnex-dev)
+[![Location](https://img.shields.io/badge/Base-Dhaka%2C%20Bangladesh-0D1117?style=flat-square&logo=googlemaps&logoColor=FF3B56)](https://maps.google.com)
 
 </div>
 
@@ -20,10 +20,10 @@
 <table>
   <tr>
     <th width="50%" align="left">
-      <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2300F5A0" width="16" height="16" /> &nbsp; Creative Frontend &amp; Interface Engineering
+      <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23FF3B56" width="16" height="16" /> &nbsp; Creative Frontend &amp; Interface Engineering
     </th>
     <th width="50%" align="left">
-      <img src="https://api.iconify.design/lucide:cpu.svg?color=%2300D9F5" width="16" height="16" /> &nbsp; Systems, Backend &amp; Data Architecture
+      <img src="https://api.iconify.design/lucide:cpu.svg?color=%23FF3B56" width="16" height="16" /> &nbsp; Systems, Backend &amp; Data Architecture
     </th>
   </tr>
   <tr>
