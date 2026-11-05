@@ -1,84 +1,87 @@
 <div align="center">
 
-<!-- Animated Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00F5A0&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Arnob+(Omnex)+%E2%9C%A8;Creative+Technologist+%26+Full-Stack+Architect;Building+Resilient%2C+Zero-Latency+Systems;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Distributed+Architecture" alt="Typing SVG" />
-</a>
+# Arnob (Omnex)
 
-<p align="center">
-  <em>Obsessed with high-performance digital craftsmanship, tactile micro-interactions, and distributed architecture.</em>
-</p>
+**Creative Technologist & Full-Stack Systems Architect**  
+*Dhaka, Bangladesh*
 
-<p align="center">
-  <a href="mailto:revenched.arnob@gmail.com">
-    <img src="https://img.shields.io/badge/Email-revenched.arnob%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5A0" alt="Email" />
-  </a>
-  <a href="https://github.com/revenchedarnob-wq">
-    <img src="https://img.shields.io/badge/GitHub-revenchedarnob--wq-0D1117?style=for-the-badge&logo=github&logoColor=00D9F5" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F5A0" alt="Location" />
-</p>
+<br />
 
-</div>
+> *"Designing at the intersection of fluid, high-frame-rate frontend engineering and resilient distributed systems."*
 
----
+<br />
 
-### ⚡ Engineering Matrix & Telemetry
+[![Email](https://img.shields.io/badge/Email-revenched.arnob%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=f0f6fc)](mailto:revenched.arnob@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-revenchedarnob--wq-161b22?style=flat-square&logo=github&logoColor=f0f6fc)](https://github.com/revenchedarnob-wq)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-161b22?style=flat-square&logo=googlemaps&logoColor=f0f6fc)](https://maps.google.com)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=revenchedarnob-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00D9F5&text_color=8B949E&count_private=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://streak-stats.demolab.com?user=revenchedarnob-wq&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0" width="100%" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revenchedarnob-wq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=8B949E" width="60%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🛠️ Tech Stack & Weapons of Choice
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,docker,git,linux,python,fastapi,redis,githubactions&theme=dark" alt="Tech Stack" />
-  </a>
 </div>
 
 <br />
 
 ---
 
-### 🚀 Flagship Architecture & Engineering
+### ✦ The Dual Craft: Interface & Systems
 
-```
-┌─────────────────────────────┬──────────────────────────────────────────────────────────────────┐
-│ Repository                  │ Architectural Focus & Description                                │
-├─────────────────────────────┼──────────────────────────────────────────────────────────────────┤
-│ ⚡ HyperStream               │ Ultra-low latency live media capture, indexing & telemetry       │
-│ 💼 Apex-CRM                 │ High-throughput enterprise intelligence & business pipeline CRM   │
-│ 🏛️ HitTech Architecture      │ Distributed system design, dual-engine fulfillment & state RLS   │
-│ 🛒 Mitavin Dispensary        │ High-converting luxury e-commerce with tactile micro-motion       │
-│ 🔐 Session-Vault            │ Automated US smart proxy routing & isolated session orchestrator │
-└─────────────────────────────┴──────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <th width="50%" align="left">Creative Frontend & Interface Engineering</th>
+    <th width="50%" align="left">Systems, Backend & Data Architecture</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><strong>Kinetic Motion & Physics:</strong> Hardware-accelerated 60–120 FPS compositor animations via GSAP, Framer Motion, and Web Audio micro-haptics.</li>
+        <li><strong>Modern Web Platforms:</strong> Next.js App Router, React 19, TypeScript, responsive multi-viewport layout resilience, and Tailwind CSS.</li>
+        <li><strong>Creative Direction:</strong> Typographic hierarchy, dark-mode P3 wide-gamut palettes, zero mobile horizontal overflow, and tactile micro-interactions.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><strong>High-Throughput Services:</strong> Asynchronous streaming pipelines, event-driven architectures, and low-latency Node.js/TypeScript APIs.</li>
+        <li><strong>Data Integrity & Caching:</strong> PostgreSQL schema modeling, Row-Level Security (RLS), Supabase, and multi-tier Redis caching layers.</li>
+        <li><strong>Runtime & DevOps:</strong> Linux environments, Dockerized workflows, WebSockets, background job orchestration, and automated CI/CD pipelines.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ---
 
-### 🐍 Contribution Activity Stream
+### ✦ Engineering Principles
+
+1. **Zero-Latency Ergonomics:** Digital tools should feel like physical extensions of thought. We optimize bundle footprints, prioritize main-thread frame budgets, and employ optimistic updates to banish loading friction.
+2. **Architectural Resilience:** Software must fail gracefully. Backends are built defensively with strict idempotency, connection pooling, and resilient retry mechanisms under network degradation.
+3. **Restrained Editorial Aesthetic:** Modern interfaces should command respect through negative space, razor-sharp typographic scale, and purposeful micro-motion—never noisy decorative clutter.
+
+<br />
+
+---
+
+### ✦ Weapons of Choice
+
+<div align="center">
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,redis,docker,linux,python,git&theme=dark" alt="Curated Tech Stack" />
+  </a>
+  <br /><br />
+</div>
+
+<br />
+
+---
+
+### ✦ Contribution Dynamics
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/revenchedarnob-wq/revenchedarnob-wq/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
+<br />
+
 <div align="center">
-  <sub>Generated autonomously with clean micro-haptics & zero bloat.</sub>
+  <sub>Crafted with quiet restraint and performance discipline.</sub>
 </div>
