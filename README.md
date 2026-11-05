@@ -5,9 +5,13 @@
 
 <br /><br />
 
-[![Email](https://img.shields.io/badge/Email-revenched.arnob%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=FF3B56)](mailto:revenched.arnob@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-omnex--dev-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/omnex-dev)
-[![Location](https://img.shields.io/badge/Base-Dhaka%2C%20Bangladesh-0D1117?style=flat-square&logo=googlemaps&logoColor=FF3B56)](https://maps.google.com)
+<p align="center">
+  <a href="mailto:revenched.arnob@gmail.com"><code>revenched.arnob@gmail.com</code></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/omnex-dev"><code>@omnex-dev</code></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>Dhaka, Bangladesh</code>
+</p>
 
 </div>
 
@@ -15,66 +19,41 @@
 
 ---
 
-### ✦ The Dual Craft: Interface & Systems
+### ✦ Interface Craft
 
-<table>
-  <tr>
-    <th width="50%" align="left">
-      <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23FF3B56" width="16" height="16" /> &nbsp; Creative Frontend &amp; Interface Engineering
-    </th>
-    <th width="50%" align="left">
-      <img src="https://api.iconify.design/lucide:cpu.svg?color=%23FF3B56" width="16" height="16" /> &nbsp; Systems, Backend &amp; Data Architecture
-    </th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><strong>Kinetic Motion &amp; Physics:</strong> Hardware-accelerated 60–120 FPS compositor animations via GSAP, Framer Motion, and Web Audio micro-haptics.</li>
-        <li><strong>Modern Web Platforms:</strong> Next.js App Router, React 19, TypeScript, responsive multi-viewport layout resilience, and Tailwind CSS.</li>
-        <li><strong>Creative Direction:</strong> Typographic hierarchy, dark-mode P3 wide-gamut palettes, zero mobile horizontal overflow, and tactile micro-interactions.</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li><strong>High-Throughput Services:</strong> Asynchronous streaming pipelines, event-driven architectures, and low-latency Node.js/TypeScript APIs.</li>
-        <li><strong>Data Integrity &amp; Caching:</strong> PostgreSQL schema modeling, Row-Level Security (RLS), Supabase, and multi-tier Redis caching layers.</li>
-        <li><strong>Runtime &amp; DevOps:</strong> Linux environments, Dockerized workflows, WebSockets, background job orchestration, and automated CI/CD pipelines.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* **Kinetic Motion &amp; Physics:** Hardware-accelerated 60–120 FPS compositor animations via GSAP, Framer Motion, and Web Audio micro-haptics.
+* **Modern Web Engineering:** Next.js App Router, React 19, TypeScript, responsive layout resilience, and modern Tailwind CSS.
+* **Creative Direction:** Strict typographic scale, dark-mode P3 wide-gamut palettes, zero mobile overflow, and fluid ergonomics.
 
 <br />
 
 ---
 
-### ✦ Engineering Principles
+### ✦ Systems Architecture
 
-```
-01 // ZERO-LATENCY ERGONOMICS
-     Digital tools should feel like physical extensions of thought. 
-     Optimized bundle footprints, prioritized frame budgets, and optimistic UI updates.
-
-02 // ARCHITECTURAL RESILIENCE
-     Software must fail gracefully. Backends are built defensively with 
-     strict idempotency, connection pooling, and resilient retry mechanisms.
-
-03 // RESTRAINED EDITORIAL AESTHETIC
-     Modern interfaces should command respect through negative space, razor-sharp 
-     typographic scale, and purposeful micro-motion—never noisy decorative clutter.
-```
+* **High-Throughput Services:** Asynchronous streaming pipelines, event-driven architectures, and low-latency Node.js/TypeScript APIs.
+* **Data Integrity &amp; Caching:** PostgreSQL schema modeling, Row-Level Security (RLS), Supabase, and multi-tier Redis caching layers.
+* **Runtime &amp; DevOps:** Linux environments, containerized Docker workflows, WebSockets, background job orchestration, and automated CI/CD.
 
 <br />
 
 ---
 
-### ✦ Weapons of Choice
+### ✦ Core Stack
 
 <div align="center">
   <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,redis,docker,linux,python,git&theme=dark" alt="Curated Tech Stack" />
-  </a>
+  <code>TypeScript</code> &nbsp;·&nbsp;
+  <code>React</code> &nbsp;·&nbsp;
+  <code>Next.js</code> &nbsp;·&nbsp;
+  <code>Tailwind CSS</code> &nbsp;·&nbsp;
+  <code>Node.js</code> &nbsp;·&nbsp;
+  <code>PostgreSQL</code> &nbsp;·&nbsp;
+  <code>Redis</code> &nbsp;·&nbsp;
+  <code>Docker</code> &nbsp;·&nbsp;
+  <code>Linux</code> &nbsp;·&nbsp;
+  <code>Python</code> &nbsp;·&nbsp;
+  <code>Git</code>
   <br /><br />
 </div>
 
@@ -85,7 +64,7 @@
 ### ✦ Contribution Dynamics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/omnex-dev/omnex-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/omnex-dev/omnex-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Dynamics" width="100%" />
 </div>
 
 <br />
